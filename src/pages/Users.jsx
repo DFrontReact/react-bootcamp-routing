@@ -14,7 +14,6 @@ const Users = () => {
       </article>
     );
   }
-  console.log(users);
   return (
     <>
       <h1 className='title'>Users</h1>
